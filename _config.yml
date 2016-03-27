@@ -1,7 +1,7 @@
 name:       'CSE 599 / HCDE 548'
 
 brandimage: ''
-brandtext:  'CSE 599 / HCDE 548 - Personal Informatics - Winter 2016'
+brandtext:  'CSE 599 / HCDE 548 - Personal Informatics - Spring 2016'
 
 lessc: node_modules/.bin/lessc
 
