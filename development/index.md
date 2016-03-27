@@ -2,7 +2,7 @@
 layout: base/bar-sidebar-none
 title: Development Guide
 
-working_directory: web-fogies
+working_directory: web-cse599-hcde548-sp16
 ---
 
 # Building a Jekyll Site
