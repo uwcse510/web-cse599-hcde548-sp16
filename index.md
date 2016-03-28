@@ -133,19 +133,17 @@ Some sample project ideas, gathered from faculty and researchers, have been made
 
 ## Grading
 
-~~~
 Grading will roughly correspond to:
 
+~~~
 - 20%: Readings
-- 45%: Group Project
-- 15%: Exam
-- 10%: Statistics Lab
-- 10%: Participation
+- 60%: Group Project
+- 20%: Participation
+~~~
 
 Much of the grading in this course is necessarily subjective.
-We will attempt to communicate expectations and feedback throughout the course, but it is your responsibility to
-communicate with us if you feel you would like guidance in this regard.
-~~~
+We will attempt to communicate expectations and feedback throughout the course, 
+but it is your responsibility to communicate with us if you feel you would like guidance in this regard.
 
 ## Submission
 
