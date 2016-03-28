@@ -109,7 +109,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 <https://canvas.uw.edu/courses/1021534/assignments/3121658>
 ~~~
 
-### Milestone Reports
+### Milestone
 
 ~~~
 Two milestone reports serve as a check on the trajectory of your project
@@ -146,6 +146,11 @@ Milestone 2 presentation: <https://canvas.uw.edu/courses/1021534/assignments/316
 Submit your document in PDF format.
 
 Submit your presentation in PDF, PPT, or PPTX format.
+~~~
+
+### Final Presentation
+
+~~~
 ~~~
 
 ### Final Report

@@ -23,6 +23,8 @@ calendar:
     - date: Thu Apr 7
       location: CSE 403<br>10:00-11:20
       topic: Project Proposal Presentations
+      majors:
+        - "Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)"
     - date: Tue Apr 12
       location: CSE 403<br>10:00-11:20
       topic: HCI in Promoting Health and Wellness (to be confirmed)
@@ -57,6 +59,8 @@ calendar:
     - date: Thu Apr 28
       location: CSE 403<br>10:00-11:20
       topic: Project Progress Presentations
+      majors:
+        - "Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone)"
     - date: Tue May 3
       location: CSE 403<br>10:00-11:20
       topic: Reflection (to be confirmed)
@@ -73,8 +77,10 @@ calendar:
     - date: Tue May 17
       topic: "No Class: HDE / QSPH in San Diego, CA"
     - date: Thu May 19
-      location: CSE 678<br>9:30-11:20
-      topic: Project Advising Meetings
+      location: CSE 403<br>10:00-11:20
+      topic: Project Progress Presentations
+      majors:
+        - "Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone)"
     - date: Tue May 24
       location: CSE 403<br>10:00-11:20
       topic: Action (to be confirmed)
@@ -82,8 +88,8 @@ calendar:
         - "? Behavior Change Paper ?"
         -
     - date: Thu May 26
-      location: CSE 403<br>10:00-11:20
-      topic: Project Progress Presentations
+      location: CSE 678<br>9:30-11:20
+      topic: Project Advising Meetings
     - date: Tue May 31
       location: CSE 403<br>10:00-11:20
       topic: Critical Perspectives (to be confirmed)
@@ -95,9 +101,15 @@ calendar:
     - date: Thu Jun 2
       location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
-    - date: Thu Jun 2
+    - date: Mon Jun 6
       location: CSE 403<br>10:30-12:20
       topic: Final Presentations (to be confirmed)
+      majors:
+        - "Due: [Final Presentation]({{ site.baseurl }}/assignments/project.html#final-presentation)"
+    - date: Tue Jun 7
+      topic: Final Report
+      majors:
+        - "Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)"
 
 ---
 
@@ -144,6 +156,15 @@ Readings Assigned:
 <div class="directions" markdown="block">
 Additional Resources:
 </div>
+{% endif %}
+
+<!----- Majors ----->
+{% if day_current.majors %}
+{% for major_current in day_current.majors %}
+<div class="major" markdown="block">
+{{ major_current | liquify }}
+</div>
+{% endfor %}
 {% endif %}
 
 </div>
