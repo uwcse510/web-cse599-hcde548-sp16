@@ -44,13 +44,13 @@ __Course Staff__:
 
 <html>
   <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-3">
       <a href="//homes.cs.washington.edu/~jfogarty/">
         <p>James Fogarty</p>
         <p><img src="{{ site.baseurl }}/images/james_photo.jpg" height="150" alt="James Fogarty"/></p>
       </a>
     </div>
-    <div class="col-md-2">
+    <div class="col-md-3">
       <a href="http://www.smunson.com/">
         <p>Sean Munson</p>
         <p><img src="{{ site.baseurl }}/images/sean_photo.jpg" height="150" alt="Sean Munson"/></p>
@@ -142,9 +142,11 @@ Larger groups also allow greater progress within the course and deeper engagemen
 Grading will roughly correspond to:
 
 ~~~
-- 20%: Readings
 - 60%: Group Project
-- 20%: Participation
+- 10%: Reading Posts
+- 10%: Presentation
+- 5%:  Scribing
+- 15%: In-Class Participation
 ~~~
 
 Much of the grading in this course is necessarily subjective.
