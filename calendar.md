@@ -8,7 +8,7 @@ calendar:
       location: CSE 403<br>10:00-11:20
       topic: Course Overview and Planning
     - date: Thu Mar 31
-      location: CSE 403<br>10:00-11:20
+      location: CSE 403<br>9:30-11:20
       topic: In-Class Project Discussions
     - date: Tue Apr 5
       location: CSE 403<br>10:00-11:20
@@ -43,19 +43,22 @@ calendar:
       location: CSE 403<br>10:00-11:20
       topic: Collection (to be confirmed)
       readings:
+        - "Jim Gemmell, Lyndsay Williams, Ken Wood, Roger Lueder, Gordon Bell, Passive Capture and Ensuing Issues for a Personal Lifetime Store, Proceedings of the the 1st ACM workshop on continuous archival and retrieval of personal experiences New York, USA October 2004."
+        - QS Paper
+      resources:
         - "Felicia Cordeiro, Daniel A. Epstein, Edison Thomaz, Elizabeth Bales, Arvind K. Jagannathan, Gregory D. Abowd, James Fogarty. (2015).
            [Barriers and Negative Nudges: Exploring Challenges in Food Journaling](http://dx.doi.org/10.1145/2702123.2702155).
            _CHI 2015_."
-        -
     - date: Thu Apr 21
       location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
     - date: Tue Apr 26
       location: CSE 403<br>10:00-11:20
       topic: Integration (to be confirmed)
-      readings: 
-        - 
-        -
+      readings:
+        - haystack
+        - Health Mashups
+        - "Open mHealth Architecture: An Engine for Health Care Innovation"
     - date: Thu Apr 28
       location: CSE 403<br>10:00-11:20
       topic: Project Progress Presentations
@@ -65,8 +68,8 @@ calendar:
       location: CSE 403<br>10:00-11:20
       topic: Reflection (to be confirmed)
       readings: 
-        - "? QS Paper ?"
-        -
+        - "reflecting on reflection: Fleck & Fitzpatrick’s paper"
+        - cosley pensieve
     - date: Thu May 5
       location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
@@ -85,8 +88,8 @@ calendar:
       location: CSE 403<br>10:00-11:20
       topic: Action (to be confirmed)
       readings: 
-        - "? Behavior Change Paper ?"
-        -
+        - "A Taxonomy of Behavior Change Techniques Used in Interventions"
+        - "Personalization Revisited: A Reflective Approach Helps People Better Personalize Health Services and Motivates Them to Increase Physical Activity Min Kyung Lee, Junsung Kim, Jodi Forlizzi, Sara Kiesler"
     - date: Thu May 26
       location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
@@ -97,7 +100,7 @@ calendar:
         - "Stephen Purpura, Victoria Schwanda, Kaiton Williams, William Stubler, Phoebe Sengers. (2011).
            [Fit4Life: The Design of a Persuasive Technology Promoting Healthy Behavior and Ideal Weight](http://dx.doi.org/10.1145/1978942.1979003).
            _CHI 2011_."
-        -
+        - "Steps, Choices and Moral Accounting: Observations from a Step-Counting Campaign in the Workplace"
     - date: Thu Jun 2
       location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
@@ -156,6 +159,13 @@ Readings Assigned:
 <div class="directions" markdown="block">
 Additional Resources:
 </div>
+<ul class="paper" markdown="block">
+{% for resource_current in day_current.resources %}
+<li class="paper" markdown="block">
+{{ resource_current }}
+</li>
+{% endfor %}
+</ul>
 {% endif %}
 
 <!----- Majors ----->
