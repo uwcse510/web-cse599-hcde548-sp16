@@ -7,6 +7,10 @@ calendar:
     - date: Tue Mar 29
       location: CSE 403<br>10:00-11:20
       topic: Course Overview and Planning
+      resources:
+        - "James Fogarty, Julie A. Kientz, Sean A. Munson, Shwetak N. Patel. (2014). 
+           [Getting Personal with Personal Informatics]({{ site.baseurl }}/readings/fogarty2014.pdf). 
+           _HCIC 2014_."
     - date: Thu Mar 31
       location: CSE 403<br>9:30-11:20
       topic: In-Class Project Discussions
@@ -139,8 +143,6 @@ calendar:
         - "Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)"
 
 ---
-
-` This page is under development and everything is subject to change `
 
 <html>
 <div class="calendar">
