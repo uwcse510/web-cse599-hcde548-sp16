@@ -5,41 +5,66 @@ title: Calendar
 calendar:
   days:
     - date: Tue Mar 29
+      location: CSE 403<br>10:00-11:20
       topic: Course Overview and Planning
-      location: CSE 403
     - date: Thu Mar 31
-      topic: TBD
+      location: CSE 403<br>10:00-11:20
+      topic: In-Class Project Discussions
     - date: Tue Apr 5
+      location: CSE 403<br>10:00-11:20
       topic: Models of Personal Informatics
-      location: CSE 403
       readings: 
-        - Ian Li, Anind Dey, Jodi Forlizzi. 
-          [A Stage-Based Model of Personal Informatics Systems](http://dx.doi.org/10.1145/1753326.1753409).
-          _CHI 2010_.
-        - Daniel A. Epstein, An Ping, James Fogarty, Sean A. Munson. 
-          [A Lived Informatics Model of Personal Informatics](http://dx.doi.org/10.1145/2750858.2804250).
-          _UbiComp 2015_.
+        - "Ian Li, Anind Dey, Jodi Forlizzi. (2010).
+           [A Stage-Based Model of Personal Informatics Systems](http://dx.doi.org/10.1145/1753326.1753409).
+           _CHI 2010_."
+        - "Daniel A. Epstein, An Ping, James Fogarty, Sean A. Munson. (2015).
+           [A Lived Informatics Model of Personal Informatics](http://dx.doi.org/10.1145/2750858.2804250).
+           _UbiComp 2015_."
     - date: Thu Apr 7
-      topic: TBD
+      location: CSE 403<br>10:00-11:20
+      topic: Project Proposal Presentations
     - date: Tue Apr 12
-      topic: TBD
-      location: CSE 403
+      location: CSE 403<br>10:00-11:20
+      topic: HCI in Promoting Health and Wellness (to be confirmed)
+      readings: 
+        - "Sunny Consolvo, Predrag Klasnja, David W. McDonald, James A. Landay. (2014). 
+           [Designing for Healthy Lifestyles: Design Considerations for Mobile Technologies to Encourage Consumer Health and Wellness](http://dx.doi.org/10.1561/1100000040).
+           _Foundations and Trends in Human-Computer Interaction_, 6(3-4), 167-315."
+        #
+        # Alternative to Consider: 
+        # Healthcare in the Pocket: Mapping the Space of Mobile-Phone Health Interventions
+        #
     - date: Thu Apr 14
+      location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
     - date: Tue Apr 19
-      topic: TBD
-      location: CSE 403
+      location: CSE 403<br>10:00-11:20
+      topic: Collection (to be confirmed)
+      readings:
+        - "Felicia Cordeiro, Daniel A. Epstein, Edison Thomaz, Elizabeth Bales, Arvind K. Jagannathan, Gregory D. Abowd, James Fogarty. (2015).
+           [Barriers and Negative Nudges: Exploring Challenges in Food Journaling](http://dx.doi.org/10.1145/2702123.2702155).
+           _CHI 2015_."
+        -
     - date: Thu Apr 21
+      location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
     - date: Tue Apr 26
-      topic: TBD
-      location: CSE 403
+      location: CSE 403<br>10:00-11:20
+      topic: Integration (to be confirmed)
+      readings: 
+        - 
+        -
     - date: Thu Apr 28
-      topic: Project Advising Meetings
+      location: CSE 403<br>10:00-11:20
+      topic: Project Progress Presentations
     - date: Tue May 3
-      topic: TBD
-      location: CSE 403
+      location: CSE 403<br>10:00-11:20
+      topic: Reflection (to be confirmed)
+      readings: 
+        - "? QS Paper ?"
+        -
     - date: Thu May 5
+      location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
     - date: Tue May 10
       topic: "No Class: CHI 2016 in San Jose, CA"
@@ -48,15 +73,32 @@ calendar:
     - date: Tue May 17
       topic: "No Class: HDE / QSPH in San Diego, CA"
     - date: Thu May 19
+      location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
     - date: Tue May 24
-      topic: TBD
-      location: CSE 403
+      location: CSE 403<br>10:00-11:20
+      topic: Action (to be confirmed)
+      readings: 
+        - "? Behavior Change Paper ?"
+        -
     - date: Thu May 26
-      topic: Project Advising Meetings
+      location: CSE 403<br>10:00-11:20
+      topic: Project Progress Presentations
     - date: Tue May 31
-      topic: TBD
-      location: CSE 403
+      location: CSE 403<br>10:00-11:20
+      topic: Critical Perspectives (to be confirmed)
+      readings: 
+        - "Stephen Purpura, Victoria Schwanda, Kaiton Williams, William Stubler, Phoebe Sengers. (2011).
+           [Fit4Life: The Design of a Persuasive Technology Promoting Healthy Behavior and Ideal Weight](http://dx.doi.org/10.1145/1978942.1979003).
+           _CHI 2011_."
+        -
+    - date: Thu Jun 2
+      location: CSE 678<br>9:30-11:20
+      topic: Project Advising Meetings
+    - date: Thu Jun 2
+      location: CSE 403<br>10:30-12:20
+      topic: Final Presentations (to be confirmed)
+
 ---
 
 ` This page is under development and everything is subject to change `
