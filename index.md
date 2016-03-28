@@ -135,7 +135,7 @@ The course project must stand on its own, not merely be a snapshot of an outside
 
 For similar reasons, projects will be collaborative, with students working in groups of three to four.
 A major goal in this course is to facilitate connections among students conducting research in personal informatics.
-Larger groups also allow greater progress and deeper engagement from the course staff.
+Larger groups also allow greater progress within the course and deeper engagement from the course staff.
 
 ## Grading
 
