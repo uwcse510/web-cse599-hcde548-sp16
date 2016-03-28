@@ -119,17 +119,23 @@ Feel free to continue a discussion after this, even after class.
 
 ## Project
 
-~~~
-A course project will be a major component of your work. Details of the project are here:
+A course project will be a major component of your work, 
+and the course will begin with rapid brainstorming of potential projects.
+
+Details of the project structure are here:
 
 <{{ site.url }}{{ site.baseurl }}/assignments/project.html>
 
 Dates are also linked from the course calendar.
 
-Some sample project ideas, gathered from faculty and researchers, have been made available here:
+Many of the students in this course are actively conducting research in personal informatics,
+so we welcome and even encourage projects that align with research goals beyond this course.
+However, it is critical that projects define what they will specifically accomplish in the scope of the course.
+The course project must stand on its own, not merely be a snapshot of an outside research process.
 
-<https://canvas.uw.edu/courses/1021534/discussion_topics/3155256>
-~~~
+For similar reasons, projects will be collaborative, with students working in groups of three to four.
+A major goal in this course is to facilitate connections among students conducting research in personal informatics.
+Larger groups also allow greater progress and deeper engagement from the course staff.
 
 ## Grading
 
