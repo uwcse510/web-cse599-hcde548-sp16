@@ -3,8 +3,6 @@ layout: base/bar-sidebar-none
 title: Course Overview
 ---
 
-` This page is under development and everything is subject to change `
-
 ## Course Description
 
 Personal informatics systems are those that help people collect personally relevant information for the purpose of
@@ -59,51 +57,29 @@ __Course Staff__:
   </div>
 </html>
 
-## Readings
+## Assigned Readings, Additional Resources, and Participation
 
-~~~
-Assigned readings will often focus on research topics, generally consisting of:
+Assigned readings will explore several dimensions of personal informatics.
+In-class discussion is a critical component of this course.
+To maximize the quality and effectiveness of that discussion,
+every participant is expected to read the assigned readings before class.
+This will typically mean two full-length research papers per class.
 
-- A _historic framing_ paper: presenting a theory, language, or understanding that can
-  help in understanding and contextualizing the contributions of additional research.
+Any set of readings is inherently incomplete,
+and part of the value of this course is assembling diverse perspectives on personal informatics.
+We will therefore encourage posting of additional resources,
+including additional resources that participants surface in the course of discussion.
 
-- Two papers that provide _more recent or specific contributions_:
-  presenting the type of contribution you might initially be expected to attempt in your research.
+### Advance Posting of Potential Discussion Topics
 
-You are expected to read: (1) the historical framing paper, and (2) either of the more current papers
-(in other words, whichever seems more compelling or interesting to you). You obviously may choose to read all three.
-The calendar will link to assigned readings and provide any day-specific revisions to this reading structure. 
-
-You are expected to have read and considered the assigned readings prior to class,
-as the in-class discussions are a critical component of this course.
-~~~
-
-### Reading Reports
-
-~~~
-To help prepare for an engaging and meaningful discussion, we require posting thoughts and questions beforehand.
-You can start a new discussion, participate in an existing discussion, or do a bit of both.
-You can discuss all of the assigned readings, or focus on a portion of the reading that you found most interesting. 
-The important part is that we can see intellectual effort in your forum participation, not just a simple paper summary.
-
+To help prepare for an engaging and meaningful discussion, 
+we require participants post potential discussion topics to Canvas discussion threads.
 We will create Canvas discussion threads for each paper.
-If you have a thought or question that relates to multiple papers, post it wherever seems more appropriate.
+If you have a potential discussion topic that relates to multiple papers, post it wherever seems more appropriate.
 
-Your participation in the forum discussion for each day will be graded on a scale from 0 to 3.
-
-- 0: If you do not participate.
-- 1: If your participation seems weak and does not convince us you read, understood, and considered the readings.
-- 2: If your participation shows you read and understood the readings and had something interesting to say.
-     This will be the most common grade.
-- 3: Reserved for especially insightful participation.
-
-It is generally easy to find something to criticize in any piece of research.
-But focusing exclusively on the potential flaws of research is generally not productive. 
-You will generally find it more intellectually worthwhile to focus on aspects of work that are particularly well done, 
-new ideas are prompted by a piece of work, or what you might have done differently if you conducted the research. 
-This will also lead to much more valuable discussions.
-
-Potential topics for discussion are:
+Simply criticizing the details of research often leads to an underwhelming discussion.
+We encourage participants to draw upon their backgrounds to surface more interesting potential discussions.
+Potential topics for discussion might include:
 
 - What idea or innovation enabled this, what more might be done based on that idea or innovation?
 - What new questions or research agendas are suggested by this research?
@@ -111,11 +87,69 @@ Potential topics for discussion are:
 - What aspects of this work were particularly well done or effective?
 - If you had conducted this research, what would you have done differently?
 
-As we note in [Submission](#submission), reading discussion must be posted by the night before each class meeting.
-This ensures time to review discussion the next morning before class.
+All of your classmates will have read the paper, so do not simply post a summary of the paper.
 
-Feel free to continue a discussion after this, even after class.
-~~~
+Importantly, we also do not want to have the discussion on Canvas.
+The goal of surfacing potential discussion topics is to then have the actual discussion in-class.
+
+Participants are expected to post one potential discussion topic per day, not necessarily one per paper.
+Participants are welcome and encourage to submit multiple potential topics, but this is not expected.
+
+Participation in the posting potential discussion topics for each day will be graded on a scale from 0 to 3.
+
+- 0: If you do not participate.
+- 1: If your participation seems weak and does not convince us you read, understood, and considered the readings.
+- 2: If your participation shows you read and understood the readings, then surfaced a potentially interesting discussion topic.
+     This will be the most common grade.
+- 3: Reserved for especially strong or insightful discussion topics.
+     This will be an uncommon grade, and is not expected.
+
+Potential discussion topics must be posted by the night before each class.
+This ensures time to review discussion before class the next morning.
+
+### Presentation of Assigned Readings
+
+Each participant will sign up to present one of the assigned readings.
+Discussion of each reading will begin with this presentation.
+
+Unless advised otherwise, presentation should focus on the context of an assigned reading.
+This might include:
+
+- Information about the researchers involved in the work.
+- Key research that preceded or informed the assigned reading.
+- Key research that followed or was informed by the assigned reading.
+- A contrast between the assigned reading and other contemporary alternatives.
+
+All of your classmates will have read the paper, so do not simply present a summary of the paper.
+
+We welcome and encourage you to seek guidance or feedback on your overall approach to the presentation.
+It is probably not time effective to seek feedback on detailed minutia of your presentation. 
+For calibration, we expect students to spend 60 to 90 minutes researching the context of a paper.
+We then expect presentations will be 5 to 10 minutes. 
+
+As part of preparation, the presenter should share any additional resources that will be presented with the scribes.
+ 
+### Scribing of In-Class Discussion and Additional Resources
+
+Each participant will sign up to scribe one day's discussion.
+Given the enrollment, this means there will be two scribes for each day.
+
+In contrast to the highly-curated presentation of content in a more introductory course, 
+we expect the participants in this course to raise a variety of background and perspectives in the course of discussion.
+We expect this will include additional resources that are unfamiliar to some or many of the other participants.
+
+Scribes will capture key aspects of in-class discussion and additional resources that surface in that discussion.
+The expected process is:
+
+- Two scribes using a Google Doc to take notes during discussion.
+- Cleaning up those notes and posting to the class-internal Canvas.
+- Posting identified additional resources to the public website.
+
+Scribes are not expected to capture every detail of the discussion.
+That goal is that explicit scribing allows participants to focus on the discussion,
+while knowing that key themes any additional resources can be accessed later.
+The class-internal Canvas is intended to promote candor,
+while the public website ensures ready availability of additional resources.
 
 ## Project
 
@@ -141,13 +175,13 @@ Larger groups also allow greater progress within the course and deeper engagemen
 
 Grading will roughly correspond to:
 
-~~~
 - 60%: Group Project
-- 10%: Reading Posts
-- 10%: Presentation
-- 5%:  Scribing
-- 15%: In-Class Participation
-~~~
+- 15%: Reading Posts
+
+- 10%: Presentation of an Assigned Reading
+- 5%:  Scribing of a Day's Discussion
+
+- 10%: In-Class Participation
 
 Much of the grading in this course is necessarily subjective.
 We will attempt to communicate expectations and feedback throughout the course, 
