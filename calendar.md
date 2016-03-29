@@ -187,7 +187,7 @@ Readings Assigned:
 <ul class="paper" markdown="block">
 {% for reading_current in day_current.readings %}
 <li class="paper" markdown="block">
-{{ reading_current }}
+{{ reading_current | liquify }}
 </li>
 {% endfor %}
 </ul>
@@ -201,7 +201,7 @@ Additional Resources:
 <ul class="paper" markdown="block">
 {% for resource_current in day_current.resources %}
 <li class="paper" markdown="block">
-{{ resource_current }}
+{{ resource_current | liquify }}
 </li>
 {% endfor %}
 </ul>
