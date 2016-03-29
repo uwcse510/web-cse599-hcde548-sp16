@@ -3,8 +3,6 @@ layout: base/bar-sidebar-none
 title: "Project"
 ---
 
-` This page is under development and everything is subject to change `
-
 ## Overview
 
 A course project will be a major component of your work.

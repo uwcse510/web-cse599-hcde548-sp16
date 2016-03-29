@@ -32,6 +32,12 @@ calendar:
     - date: Tue Apr 12
       location: CSE 403<br>10:00-11:20
       topic: HCI in Promoting Health and Wellness
+      presenter_notes: |
+        Three presenters are assigned to this paper, one for each of Chapter 2, Chapter 3, Chapter 4.
+        
+        This survey paper already provides a larger context for significant research.
+        But it covers a large number of conceptual ideas, necessarily glossing over important people, systems, and results.
+        Presentation of these chapters should therefore introduce covered people, systems, and results.
       readings: 
         - "Sunny Consolvo, Predrag Klasnja, David W. McDonald, James A. Landay. (2014). 
            [Designing for Healthy Lifestyles: Design Considerations for Mobile Technologies to Encourage Consumer Health and Wellness](http://dx.doi.org/10.1561/1100000040).
@@ -165,6 +171,13 @@ calendar:
 <!----- Right Column ----->
 <div class="col-md-10 calcontent" markdown="block">
 ## {{ day_current.topic }}
+
+<!----- Presentation Notes ----->
+{% if day_current.presenter_notes %}
+<div class="directions" markdown="block">
+{{ day_current.presenter_notes }}
+</div>
+{% endif %}
 
 <!----- Readings ----->
 {% if day_current.readings %}
