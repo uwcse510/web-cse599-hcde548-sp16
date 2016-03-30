@@ -172,6 +172,15 @@ calendar:
 <div class="col-md-10 calcontent" markdown="block">
 ## {{ day_current.topic }}
 
+<!----- Majors ----->
+{% if day_current.majors %}
+{% for major_current in day_current.majors %}
+<div class="major" markdown="block">
+{{ major_current | liquify }}
+</div>
+{% endfor %}
+{% endif %}
+
 <!----- Presentation Notes ----->
 {% if day_current.presenter_notes %}
 <div class="directions" markdown="block">
@@ -195,9 +204,8 @@ Readings Assigned:
 
 <!----- Resources ----->
 {% if day_current.resources %}
-<div class="directions" markdown="block">
+<div class="resources" markdown="block">
 Additional Resources:
-</div>
 <ul class="paper" markdown="block">
 {% for resource_current in day_current.resources %}
 <li class="paper" markdown="block">
@@ -205,15 +213,7 @@ Additional Resources:
 </li>
 {% endfor %}
 </ul>
-{% endif %}
-
-<!----- Majors ----->
-{% if day_current.majors %}
-{% for major_current in day_current.majors %}
-<div class="major" markdown="block">
-{{ major_current | liquify }}
 </div>
-{% endfor %}
 {% endif %}
 
 </div>
