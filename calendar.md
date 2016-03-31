@@ -6,6 +6,7 @@ calendar:
   days:
     - date: Tue Mar 29
       location: CSE 403<br>10:00-11:20
+      slides: https://canvas.uw.edu/files/35966312/
       topic: Course Overview and Planning
       resources:
         - "James Fogarty, Julie A. Kientz, Sean A. Munson, Shwetak N. Patel. (2014). 
@@ -160,11 +161,17 @@ calendar:
 <div class="col-md-2" markdown="block">
 ## {{ day_current.date }}
 
-<div class="directions" markdown="block">
 {% if day_current.location %}
+<div class="directions" markdown="block">
 {{ day_current.location }}
-{% endif %}
 </div>
+{% endif %}
+
+{% if day_current.slides %}
+<div class="directions" markdown="block">
+[<a target="_blank" href="{{ day_current.slides }}">slides</a>]
+</div>
+{% endif %}
 
 </div>
 <!----- End Left Column ----->
