@@ -33,7 +33,7 @@ and a _final presentation_ with a _final report_. These are due:
 
 - _Proposal_:               Thursday, April 7, 2016
 - _Milestone_:              Thursday, April 28, 2016
-- _Milestone_:              Thursday, May 9, 2016
+- _Milestone_:              Thursday, May 19, 2016
 - _Final Presentation_:     Monday, June 6, 2016
 - _Final Report_:           Tuesday, June 7, 2016
 
@@ -96,9 +96,9 @@ Due: Uploaded the night before class Thursday, April 7, 2016
 Submit your document in PDF format. Submit your presentation in PDF, PPT, or PPTX format.
 
 ~~~
-Proposal Document: <https://canvas.uw.edu/courses/1021534/assignments/3121657>
+Proposal Document: <https://canvas.uw.edu/courses/1060429/assignments/3247936>
 
-Proposal Presentation: <https://canvas.uw.edu/courses/1021534/assignments/3121658>
+Proposal Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3248032>
 ~~~
 
 ### Milestone
@@ -132,13 +132,13 @@ Due: Uploaded the night before class Thursday, April 28, 2016 and Thursday, May 
 Submit your document in PDF format. Submit your presentation in PDF, PPT, or PPTX format.
 
 ~~~
-Milestone 1 Document: <https://canvas.uw.edu/courses/1021534/assignments/3143418>
+Milestone 1 Document: <https://canvas.uw.edu/courses/1060429/assignments/3247975>
 
-Milestone 1 Presentation: <https://canvas.uw.edu/courses/1021534/assignments/3143419>
+Milestone 1 Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247937>
 
-Milestone 2 Document: <https://canvas.uw.edu/courses/1021534/assignments/3164485>
+Milestone 2 Document: <https://canvas.uw.edu/courses/1060429/assignments/3247938>
 
-Milestone 2 Presentation: <https://canvas.uw.edu/courses/1021534/assignments/3164486>
+Milestone 2 Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247972>
 ~~~
 
 ### Final Presentation
@@ -169,7 +169,7 @@ Due: Uploaded the night before class Monday, June 6, 2016
 Submit your presentation in PDF, PPT, or PPTX format.
 
 ~~~
-Final Presentation: <https://canvas.uw.edu/courses/1021534/assignments/3121658>
+Final Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247940>
 ~~~
 
 ### Final Report
@@ -198,5 +198,5 @@ Due: Uploaded by the end of day Tuesday, June 7, 2016.
 Submit your document in PDF format.
 
 ~~~
-Final Report: <https://canvas.uw.edu/courses/1021534/assignments/3164488>
+Final Report: <https://canvas.uw.edu/courses/1060429/assignments/3247941>
 ~~~
