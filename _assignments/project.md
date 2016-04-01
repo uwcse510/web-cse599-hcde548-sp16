@@ -128,13 +128,12 @@ Due: Uploaded the night before class Thursday, April 28, 2016 and Thursday, May 
 
 Submit your document in PDF format. Submit your presentation in PDF, PPT, or PPTX format.
 
-Milestone 1 
-* Document: <https://canvas.uw.edu/courses/1060429/assignments/3247975>
-* Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247937>
-
-Milestone 2
-* Document: <https://canvas.uw.edu/courses/1060429/assignments/3247938>
-* Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247972>
+* Milestone 1
+    * Document: <https://canvas.uw.edu/courses/1060429/assignments/3247975>
+    * Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247937>
+* Milestone 2
+    * Document: <https://canvas.uw.edu/courses/1060429/assignments/3247938>
+    * Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247972>
 
 ### Final Presentation
 
