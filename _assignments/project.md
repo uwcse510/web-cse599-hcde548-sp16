@@ -95,11 +95,8 @@ Due: Uploaded the night before class Thursday, April 7, 2016
 
 Submit your document in PDF format. Submit your presentation in PDF, PPT, or PPTX format.
 
-~~~
-Proposal Document: <https://canvas.uw.edu/courses/1060429/assignments/3247936>
-
-Proposal Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3248032>
-~~~
+* Document: <https://canvas.uw.edu/courses/1060429/assignments/3247936>
+* Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3248032>
 
 ### Milestone
 
@@ -131,15 +128,13 @@ Due: Uploaded the night before class Thursday, April 28, 2016 and Thursday, May 
 
 Submit your document in PDF format. Submit your presentation in PDF, PPT, or PPTX format.
 
-~~~
-Milestone 1 Document: <https://canvas.uw.edu/courses/1060429/assignments/3247975>
+Milestone 1 
+* Document: <https://canvas.uw.edu/courses/1060429/assignments/3247975>
+* Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247937>
 
-Milestone 1 Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247937>
-
-Milestone 2 Document: <https://canvas.uw.edu/courses/1060429/assignments/3247938>
-
-Milestone 2 Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247972>
-~~~
+Milestone 2
+* Document: <https://canvas.uw.edu/courses/1060429/assignments/3247938>
+* Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247972>
 
 ### Final Presentation
 
@@ -168,9 +163,7 @@ Due: Uploaded the night before class Monday, June 6, 2016
 
 Submit your presentation in PDF, PPT, or PPTX format.
 
-~~~
-Final Presentation: <https://canvas.uw.edu/courses/1060429/assignments/3247940>
-~~~
+Final Presentation: https://canvas.uw.edu/courses/1060429/assignments/3247940
 
 ### Final Report
 
@@ -197,6 +190,4 @@ Due: Uploaded by the end of day Tuesday, June 7, 2016.
 
 Submit your document in PDF format.
 
-~~~
 Final Report: <https://canvas.uw.edu/courses/1060429/assignments/3247941>
-~~~
