@@ -25,6 +25,9 @@ calendar:
         - "Daniel A. Epstein, An Ping, James Fogarty, Sean A. Munson. (2015).
            [A Lived Informatics Model of Personal Informatics](http://dx.doi.org/10.1145/2750858.2804250).
            _UbiComp 2015_."
+      resources:
+        - "John Rooksby, Mattias Rost, Alistair Morrison, and Matthew Chalmers Chalmers. (2014). [Personal tracking as lived informatics](https://courses.cs.washington.edu/courses/cse440/15au/readings/PersonalInformatics-Rooksby2014.pdf). _CHI 2014_."
+        - "Albert Bandura. (1991). [Social cognitive theory of self-regulation](http://www.uky.edu/~eushe2/BanduraPubs/Bandura1991OBHDP.pdf) _Organizational behavior and human decision processes_ 50.2: 248-287."
     - date: Thu Apr 7
       location: CSE 403<br>9:30-11:20
       topic: Project Proposal Presentations
