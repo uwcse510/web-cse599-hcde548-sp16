@@ -79,7 +79,7 @@ If you have a potential discussion topic that relates to multiple papers, post i
 
 Simply criticizing the details of research often leads to an underwhelming discussion.
 We encourage participants to draw upon their backgrounds to surface more interesting potential discussions.
-Potential topics for discussion might include:
+Potential topics for discussion might be inspired by considering:
 
 - What idea or innovation enabled this, what more might be done based on that idea or innovation?
 - What new questions or research agendas are suggested by this research?
@@ -87,10 +87,10 @@ Potential topics for discussion might include:
 - What aspects of this work were particularly well done or effective?
 - If you had conducted this research, what would you have done differently?
 
-All of your classmates will have read the paper, so do not simply post a summary of the paper.
-
-Importantly, we also do not want to have the discussion on Canvas.
+Importantly, we do not want to have the discussion on Canvas.
 The goal of surfacing potential discussion topics is to then have the actual discussion in-class.
+
+All of your classmates will have read the paper, so do not simply post a summary of the paper.
 
 Participants are expected to post one potential discussion topic per day, not necessarily one per paper.
 Participants are welcome and encourage to submit multiple potential topics, but this is not expected.
