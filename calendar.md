@@ -67,6 +67,7 @@ calendar:
         - "Felicia Cordeiro, Daniel A. Epstein, Edison Thomaz, Elizabeth Bales, Arvind K. Jagannathan, Gregory D. Abowd, James Fogarty. (2015).
            [Barriers and Negative Nudges: Exploring Challenges in Food Journaling](http://dx.doi.org/10.1145/2702123.2702155).
            _CHI 2015_."
+        - "A Grimes, M Bednar, JD Bolter, RE Grinter. (2008). [EatWell: sharing nutrition-related memories in a low-income community] (http://www.ccs.neu.edu/home/andrea/docs/grimes_cscw08.pdf). _CSCW 2008_."
     - date: Thu Apr 21
       location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
@@ -139,6 +140,8 @@ calendar:
         - "Nanna Gorm and Irina Shklovski. (2016). 
            [Steps, Choices and Moral Accounting: Observations from a Step-Counting Campaign in the Workplace](http://dx.doi.org/10.1145/2818048.2819944). 
            _CSCW 2016_."
+      resources:
+        - "Andrea Grimes, Richard Harper. (2008). [Celebratory technology: new directions for food research in HCI](http://www.ccs.neu.edu/home/andrea/docs/grimes_food_chi08.pdf).  _CHI 2008_."
     - date: Thu Jun 2
       location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
