@@ -68,6 +68,7 @@ calendar:
            [Barriers and Negative Nudges: Exploring Challenges in Food Journaling](http://dx.doi.org/10.1145/2702123.2702155).
            _CHI 2015_."
         - "A Grimes, M Bednar, JD Bolter, RE Grinter. (2008). [EatWell: sharing nutrition-related memories in a low-income community](http://www.ccs.neu.edu/home/andrea/docs/grimes_cscw08.pdf). _CSCW 2008_."
+        - "John P. Pollak, Phil Adams, Geri Gay. (2011). [PAM: a photographic affect meter for frequent, in situ measurement of affect](http://idl.cornell.edu/files/2014/11/Pollak-et-al.-2011-PAM-a-photographic-affect-meter-for-frequent-in-2fvspt6.pdf). _CHI 2011_."
     - date: Thu Apr 21
       location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
