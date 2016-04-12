@@ -103,6 +103,7 @@ calendar:
         - "Eric P.S. Baumer. (2015). 
            [Reflective Informatics: Conceptual Dimensions for Designing Technologies of Reflection](http://dx.doi.org/10.1145/2702123.2702234). 
            _CHI 2015_."
+        - "Rúben Gouveia, Evangelos Karapanos, Marc Hassenzahl. (2015). [How do we engage with activity trackers?: a longitudinal study of Habito](http://experiencedesign.m-iti.org/Ubicomp15_Engagement.pdf). _UbiComp 2015_."
     - date: Thu May 5
       location: CSE 678<br>9:30-11:20
       topic: Project Advising Meetings
